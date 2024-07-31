@@ -16,7 +16,7 @@ This project involves:
 - Matplotlib
 - Seaborn
 
-## What You Learn
+## What I Learned
 - Text preprocessing
 - Feature engineering
 - Sentiment analysis
