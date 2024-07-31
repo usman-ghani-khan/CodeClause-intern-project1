@@ -39,3 +39,9 @@ The dataset includes customer purchase behavior with features such as:
 
 ### Sentiment Analysis Data
 A separate text dataset for building and evaluating the sentiment analysis model.
+
+Also you can find here the Google colab notebook:
+https://colab.research.google.com/drive/1NmltPKOOH1UzgS66iHnTVPKr3XYm297o?usp=sharing
+
+![image](https://github.com/user-attachments/assets/20287d93-6098-4a17-b250-70587dd39c5e)
+
